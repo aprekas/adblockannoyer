@@ -1,21 +1,16 @@
 #  adblockannoyer
 
+Make adblock as annoying to your site visitors as it is to you.
 
-You can see them <a href="http://www.brittonupchurch.com">here</a>.
+**If visitors block your ad, just show them something worse than ads.**
 
-An adblock display alternative that would actually work. And is funny.
-
-Lots of stuff gets shown to adblock users, mostly a variation of "We need money from ads, shame on you". But whiny messages are all still better than ads.  **If visitors block an ad, show them something worse than ads.**
-
-I've created HTML5 banners. Put them into your site folder to display when your ads are blocked.
+You can see videos of the banners <a href="http://www.brittonupchurch.com/adblock-annoyer">here</a>.
 
 ##  usage
 
-Download whichever banners you want to use. 
+Take whichever banners you want to use. The initial ones are 300 x 250. If you want a different size, message me: tobritton@gmail.com. I'm happy to make more.
 
-(The initial ones are 300 x 250. If you want a different size, message me: tobritton@gmail.com)
-
-Put this in your HTML before your closing body tag:
+Put this in your HTML before the closing body tag:
 
 ```<script>
     // this line executes the entire code once page is loaded
@@ -68,4 +63,6 @@ with this
 
 You can use those width-checking 'ifs' to specify what shows where.
 
-That's it! Hope you enjoy, buttchurch out.
+That's it! Hope you enjoy, and send me any messages/questions.
+
+tobritton@gmail.com
